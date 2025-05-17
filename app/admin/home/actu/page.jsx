@@ -5,7 +5,6 @@ import Pied from "@/components/Pied";
 import React, {useEffect, useState} from "react";
 import {usePathname, useRouter} from "next/navigation";
 import axios from "axios";
-import AddActu from '../../../../components/Admin/actualites/AddActu'
 import style from "@/styles/Page.css"
 
 export default function page(){

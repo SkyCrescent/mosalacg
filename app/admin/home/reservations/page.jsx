@@ -6,8 +6,6 @@ import {useRouter} from "next/navigation";
 import Link from "next/link";
 import '@/styles/Page.css'
 
-import ManageEvent from "@/components/Admin/Event/ManageEvent";
-import ManageFormation from "@/components/Admin/formation/ManageFormation";
 export default function page(){
    const router = useRouter();
     const [focus6 , SetFocus] = useState(false)

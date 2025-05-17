@@ -7,7 +7,6 @@ import Image from "next/image";
 import Pied from '@/components/Pied';
 import axios from "axios";
 import Link from "next/link";
-import AddFormation from "@/components/Admin/formation/AddFormation"
 
 export default function page(){
     const apiUrl = process.env.NEXT_PUBLIC_API_URL ;
