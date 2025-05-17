@@ -3,13 +3,8 @@ import React, {useEffect} from 'react';
 import {useState} from "react";
 
 import Image from "next/image";
-import logo from "@/public/AFFICHE FESTTM AFRIQUE 2024copie2.png";
 import Link from "next/link";
-import house from "@/public/icons/home_127px.png";
-import present from "@/public/icons/layout_127px.png";
-import concept from "@/public/icons/term_127px.png";
-import contact from "@/public/icons/news_127px.png";
-// import React from "react";
+
 import Pied from "../../../components/Pied"
 import axios from "axios";
 import {useRouter} from "next/navigation";
