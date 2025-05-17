@@ -1,6 +1,5 @@
 'use client'
 import Image from "next/image";
-import logo from "@/public/AFFICHE FESTTM AFRIQUE 2024copie2.png";
 import Link from "next/link";
 import Pied from "@/components/Pied";
 import React, {useEffect, useState} from "react";
@@ -8,11 +7,6 @@ import {usePathname, useRouter} from "next/navigation";
 import axios from "axios";
 import AddActu from '../../../../components/Admin/actualites/AddActu'
 import style from "@/styles/Page.css"
-import house from "@/public/icons/home_127px.png";
-import present from "@/public/icons/layout_127px.png";
-import concept from "@/public/icons/term_127px.png";
-import off from "@/public/icons/shutdown_127px.png";
-import plannig from "@/public/icons/plannig.ico";
 
 export default function page(){
    const apiUrl = process.env.NEXT_PUBLIC_API_URL ;
