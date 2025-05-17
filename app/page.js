@@ -8,6 +8,8 @@ import NavBar from "@/components/NavBar";
 import Image from 'next/image'
 import {useRouter} from "next/navigation";
 import Style from "@/styles/bubble.css"
+import logo2 from "@/public/media/MOSALA CG LOGO FOND 2024.png";
+import logo from "@/public/media/A-548.jpg";
 export default function Home() {
     const item = [
         {
@@ -192,16 +194,21 @@ export default function Home() {
                       </div>
 
                       {/* Image de fond */}
-                      <Image
-                          src="/media/A-548.JPG"
-                          alt="Fond"
-                          layout="fill"
-                          objectFit="cover"
-                          className="z-0"
-                          priority
-                      />
+                      {/*<Image*/}
+                      {/*    src="/media/A-548.JPG"*/}
+                      {/*    alt="Fond"*/}
+                      {/*    layout="fill"*/}
+                      {/*    objectFit="cover"*/}
+                      {/*    className="z-0"*/}
+                      {/*    priority*/}
+                      {/*/>*/}
 
-
+                      <img
+                          src={logo.src}
+                          alt="Logo"
+                          className="absolute inset-0 object-cover w-full h-full"
+                          loading="eager"
+                          />
                       {/* Dégradé horizontal (transparent -> noir) */}
                       <div className="absolute inset-0 bg-gradient-to-r from-transparent to-black/80 z-10"/>
 
