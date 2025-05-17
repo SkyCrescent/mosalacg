@@ -3,15 +3,8 @@ import Image from 'next/image';
 import React, {useEffect, useState} from "react";
 import {useRouter} from "next/navigation";
 
-import logo from "@/public/AFFICHE FESTTM AFRIQUE 2024copie2.png";
 import Link from "next/link";
-import house from "@/public/icons/home_127px.png";
-import present from "@/public/icons/layout_127px.png";
-import concept from "@/public/icons/term_127px.png";
 import '@/styles/Page.css'
-import Pied from "@/components/Pied";
-import off from "@/public/icons/shutdown_127px.png";
-import plannig from "@/public/icons/plannig.ico";
 
 import ManageEvent from "@/components/Admin/Event/ManageEvent";
 import ManageFormation from "@/components/Admin/formation/ManageFormation";
