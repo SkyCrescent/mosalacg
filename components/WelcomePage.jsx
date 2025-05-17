@@ -2,7 +2,7 @@
 import React, {useEffect} from 'react';
 import {useState} from "react";
 
-import Barre from "../components/Barre"
+//import Barre from "../components/Barre"
 import Image from "next/image";
 
 export default function WelcomePage(){
