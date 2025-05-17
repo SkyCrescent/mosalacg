@@ -5,9 +5,230 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="085df0ef-0082-4b0c-bec6-b975f9d0b26c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/AddReservation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AddReservation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/.idea/festim.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/admin/home/actu/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/admin/home/formation/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/admin/home/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/admin/home/reservations/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/admin/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/pages/api/concerned/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/pages/api/formation/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/pages/api/partenaires/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/pages/api/publication/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/pages/api/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/pages/api/tare/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/pages/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/presentation/concept/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/presentation/festim/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/app/presentation/news/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/AddReservation.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/AddReservationForFormation.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Event/AddEvent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Event/Event.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Event/ManageEvent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Infos.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Interessed/Add_Concerned.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Interessed/Concerned.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Partner/AddPartener.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Partner/Partner.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Publication/AddPublication.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Publication/Publication.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/Publication/SeePublication.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/actualites/AddActu.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/formation/AddFormation.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Admin/formation/ManageFormation.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Barre.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Notifications.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Pied.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/Pied2.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/components/WelcomePage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/111 - Copie2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/1112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/11122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/111222t.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/11122gf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/11122ol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/11122uu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/113.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/AFFICHE FESTTM AFRIQUE 2024copie2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/AFFICHE FESTTM AFRIQUE 2024copie23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/AFFICHE FESTTM AFRIQUE 2024copie26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/DIPLOMATIE D'AFFAIRES.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/FB_IMG_1703860165945.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/FB_IMG_1716220604187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/GUIDE PRATIQUE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/IMG-20191123-WA0001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/IMG-20231128-WA00402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/LOGO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/MASCOTTE 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/SEM FERREOL GASSACKYS 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/SEM FERREOL GASSACKYS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/Sans titre (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/Sans titre (2).webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/Sans titre-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/Sans titre2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/Sans.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/UNICONGO-ATIBT-MEMBER.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/X-Logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/X-Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/X-Logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/arpce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/artisanat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/dd/CHRIST ALOUNA.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/ddd.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/facebook_127px2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/figa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/blind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/close.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/discourse_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/facebook_circled_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/gmail_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/home_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/instagram_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/layout_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/location_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/multiply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/news_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/phone_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/plannig.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/shutdown_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/term_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/tiktok_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/icons/whatsapp_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/images (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/11395658.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/13559398.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/1677447587754.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/40700864.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/50441540.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/55ed9b.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/5687-risques-et-sanctions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/b396c2c98e_50167538_conference-scientifique-virtuelle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/bando-inscriptions1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/date.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/faire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/getty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/inscription.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/reglement.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/img/réunion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/instagram_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/logo-dgpme2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/logoOlympic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/mail_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/0_FZBcX0VXEAAizRV.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/1000_F_593624914_IdptLe9JxeYdTQT6NnqE6JzD0xnhkwD6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/1306925-other-1920x1080-dark-batman-knight-Cool-impressive.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/135_rules_10082022rf_22735--2cb24847a185eaed2a76e6a500cabdec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/1a1eceac491171586ba1b4a2000808fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/1c0b2445f27a8f20aa8df4002c2e4851.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/2022.07.19-04.28-themixnet-62d6dbca7059c-788x444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/20230904_raw_jeyentrance--29fffde8700883ebd2f08e9ea60529bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/219_MITB_07012023AT_18927--c31c4db773323c80b31a5d4ec4b65e73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/233_PAY_08302020ca_10784__df902b5bece541b31fde22ed77b8b2e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/259955248_637033404332058_622249013599488760_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/2845218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/2871223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/28799536.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/342912261_1005670127551023_8571322634824537267_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/356812633_767774505351610_5442922587328071625_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/358618400_821522766009062_8453789476386348217_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/367994.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/374637396_687765533380739_461073828051733718_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/4662bd0dd1294ea258893928a37896a11fcf55dd068bd095d0973eeadc2f51f6._RI_TTW_SX720_FMjpg_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/61Phy0DCisL._AC_UY1100_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/63f5a07a50bf6b4c325db4e731133dcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/6a23080bb7b3e4eb6959a564ea78f995.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/AAAABRUjTMAVINYbTbHTQzMp6IK8cVslhVWEJwVfvISufOw1OOTF5Pim6iLMr9_sEpmogOaAoUSKsdH_Ikx2hwx997O7c5OsnTdXlgj8ybaAeVpV6GnARenKXJWq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/Archivage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/Batman-Family.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/Big-Hero-6-presskit-000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/IMG-20230101-WA0014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/IMG-20230212-WA0008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/IMG-20230214-WA0009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/IMG-20230620-WA0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/IMG_2239.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/IMG_2240.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/Sans titre-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/arr622b_0100b-2000-d200ac6b3b5444c4a3c4cf9413cde220.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/jeune-femme-affaires-noire-se-serrant-main-homme-affaires_53419-9165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/concerned/maineventjey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/1599218815.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/1631110818-logo-react-js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/342783523_23854989669560071_7960953595407934351_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/350-3508980_alibaba-group-logo-internet-alibaba-group-holding-ltd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/352196562_645524730926185_7832970973712969281_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/IMG-20201118-WA0004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/IMG-20230214-WA0006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/MASCOTTE 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/Sans titre2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/cancer-du-sein-metastatique-0663f5ca29a8a429.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/events/desktop-wallpaper-arrow-season-green-arrow-cw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/formation/352196562_645524730926185_7832970973712969281_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/formation/63f5a07a50bf6b4c325db4e731133dcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/formation/IMG_2239.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/formation/IMG_2240.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/formation/NF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/formation/d5925f7f0aa06f6047de1be07db10118--disney-desktop-wallpaper-desktop-wallpapers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/partenaires/1a1eceac491171586ba1b4a2000808fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/partenaires/2022.07.19-04.28-themixnet-62d6dbca7059c-788x444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/partenaires/20230701_MITB_BL_Civil_War_FC--e5e610b1c5ba65ed5930fccc8e172638.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/partenaires/2871223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/partenaires/342912261_1005670127551023_8571322634824537267_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/partenaires/352196562_645524730926185_7832970973712969281_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/partenaires/355636114_10160905263795330_3013134489714159392_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/partenaires/IMG-20230101-WA0014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/partenaires/IMG-20230214-WA0016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/135_rules_10082022rf_22735--2cb24847a185eaed2a76e6a500cabdec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/1a1eceac491171586ba1b4a2000808fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/350-3508980_alibaba-group-logo-internet-alibaba-group-holding-ltd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/352196562_645524730926185_7832970973712969281_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/383084866_846008517127006_1057445672254825469_n.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/91a1c70b84054f266d8a58f61037b694.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/AFFICHE FESTTM AFRIQUE 2024copie2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/Activate windows 10 and 11 permanently __ Windows 10 free activation in 2024 (1).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/CONFERENCE_DE_PRESSE_FESTIM_BRAZZA(360p).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/CONGO_FESTIM___BRAZZA_2019_POUR_UN_TOURISME_CULTUREL_A_TRAVERS_LA_DIPLOMATIE_PASCAL_GANGA_N'DIAYE(360p).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/CULTU-REPORTAGE___LANCEMENT_OFFICIEL_DE_LA_PREMIERE_EDITION_DU_FESTIM_AFRIQUE(360p).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/Discours_du_Promoteur_Administrateur_Général_du_FESTIM_BRAZZA__du_lancement_officiel_de_la_2_éditio.(360p).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/Downloads cody rhodes theme enternace -kingdom-.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/IMG-20230214-WA0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/Lancement_officiel_du_Festim_Afrique_1ere_édition_Brazzaville__et_Kinshasa_(360p).mp4" beforePathEscaped="$PROJECT_DIR$/../festim/public/media/publication/Lancement_officiel_du_Festim_Afrique_1ere_édition_Brazzaville_🇨🇬_et_Kinshasa_🇨🇩(360p).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/Promotion_du_tourisme_Congolais_par_Festim_Brazza(360p).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/artisanat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/media/publication/legendes-wwe-smackdown-13-septembre-2024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/mjf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/play_button_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/pme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/tiktok_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/public/whatsapp_127px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/styles/Page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/styles/animation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/styles/bubble.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../festim/tailwind.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +344,7 @@
       <workItem from="1728494718591" duration="890000" />
       <workItem from="1728554757891" duration="6000" />
       <workItem from="1737820295832" duration="2661000" />
+      <workItem from="1747470996853" duration="2244000" />
     </task>
     <servers />
   </component>

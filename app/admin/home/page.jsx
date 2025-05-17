@@ -6,16 +6,8 @@ import Style from "@/styles/Page.css"
 import Image from "next/image";
 import Pied from '../../../components/Pied';
 import axios from "axios";
-import logo from "@/public/AFFICHE FESTTM AFRIQUE 2024copie2.png";
 import Link from "next/link";
-import arrow from "@/public/arrow.png";
 import AddEvent from "@/components/Admin/Event/AddEvent";
-import a from "@/public/Sans titre-1.png";
-import house from "@/public/icons/home_127px.png";
-import present from "@/public/icons/layout_127px.png";
-import concept from "@/public/icons/term_127px.png";
-import off from "@/public/icons/shutdown_127px.png";
-import plannig from "@/public/icons/plannig.ico";
 
 export default function page(){
    const apiUrl = process.env.NEXT_PUBLIC_API_URL ;
