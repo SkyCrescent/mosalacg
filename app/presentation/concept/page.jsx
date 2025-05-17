@@ -1,5 +1,4 @@
 'use client'
-import  logo from '../../../public/AFFICHE FESTTM AFRIQUE 2024copie2.png'
 import Image from "next/image";
 import Link from "next/link";
 import React, {useState} from "react";
