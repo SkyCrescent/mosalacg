@@ -13,10 +13,6 @@ import contact from "@/public/icons/news_127px.png";
 import Pied from "../../../components/Pied"
 import axios from "axios";
 import {useRouter} from "next/navigation";
-import a from "@/public/Sans titre-1.png";
-import youtube from "@/public/play_button_127px.png";
-import logo2 from "@/public/AFFICHE FESTTM AFRIQUE 2024copie23.png";
-import discours from "@/public/icons/discourse_127px.png";
 export default function page() {
    const apiUrl = process.env.NEXT_PUBLIC_API_URL ;
    const [loading , SetLoading ] = useState(false)

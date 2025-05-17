@@ -2,20 +2,9 @@
 import  logo from '../../../public/AFFICHE FESTTM AFRIQUE 2024copie2.png'
 import Image from "next/image";
 import Link from "next/link";
-import arrow from "@/public/arrow.png";
 import React, {useState} from "react";
-import g from "@/public/FB_IMG_1703860165945.jpg";
-import d from "@/public/IMG-20231128-WA00402.jpg";
 import Pied from "@/components/Pied";
-import house from "@/public/icons/home_127px.png";
-import present from "@/public/icons/layout_127px.png";
-import concept from "@/public/icons/term_127px.png";
-import contact from "@/public/icons/news_127px.png";
 import {useRouter} from "next/navigation";
-import a from "@/public/Sans titre-1.png";
-import youtube from "@/public/play_button_127px.png";
-import logo2 from "@/public/AFFICHE FESTTM AFRIQUE 2024copie23.png";
-import discours from "@/public/icons/discourse_127px.png";
 
 
 export default function page() {

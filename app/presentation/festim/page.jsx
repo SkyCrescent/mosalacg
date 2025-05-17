@@ -1,28 +1,13 @@
 'use client'
 import Image from "next/image";
-import logo from "@/public/AFFICHE FESTTM AFRIQUE 2024copie2.png";
 import Link from "next/link";
 import '@/styles/animation.css'
 import React, {useEffect, useState} from "react";
-import g from '../../../public/FB_IMG_1703860165945.jpg'
-import d from '../../../public/IMG-20231128-WA00402.jpg'
-import  a from '../../../public/Sans titre-1.png'
-import e from '../../../public/GUIDE PRATIQUE.png'
-import z from '../../../public/FB_IMG_1716220604187.jpg'
 import Pied from "@/components/Pied";
-import ImageSrc from "@/public/home.jpg";
 import axios from "axios";
 import {useRouter} from "next/navigation";
-import house from "@/public/icons/home_127px.png";
-import present from "@/public/icons/layout_127px.png";
-import concept from "@/public/icons/term_127px.png";
-import contact from "@/public/icons/news_127px.png";
-import youtube from "@/public/play_button_127px.png";
-import logo2 from "@/public/AFFICHE FESTTM AFRIQUE 2024copie23.png";
-import GASSACKYS from "@/public/SEM FERREOL GASSACKYS.png"
 import AddReservation from "@/components/AddReservation";
 import AddReservationForFormation from "@/components/AddReservationForFormation";
-import discours from '@/public/icons/discourse_127px.png'
 import Notifications from "@/components/Notifications";
 export default function page(){
    const apiUrl = process.env.NEXT_PUBLIC_API_URL ;
