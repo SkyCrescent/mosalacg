@@ -7,7 +7,6 @@ import Image from "next/image";
 import Pied from '../../../components/Pied';
 import axios from "axios";
 import Link from "next/link";
-import AddEvent from "@/components/Admin/Event/AddEvent";
 
 export default function page(){
    const apiUrl = process.env.NEXT_PUBLIC_API_URL ;
