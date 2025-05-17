@@ -1,0 +1,38 @@
+/*.bod{*/
+/*    border : 1px solid black;*/
+
+/*}*/
+
+
+.circle {
+    width: 50px;
+    height: 50px;
+    /*background-color: blue; !* Blue color equivalent to Tailwind's bg-blue-600 *!*/
+
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    margin: auto;
+    -webkit-animation: circle 3s linear infinite;
+    animation: circle 3s linear infinite;
+}
+
+/*@-webkit-keyframes circle {*/
+/*    0% {*/
+/*        -webkit-transform: rotate(0deg) translate(150px);*/
+/*    }*/
+/*}*/
+
+
+@keyframes circle {
+    0% {
+        transform: rotate(0deg) translate(-250px) rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg) translate(-260px) rotate(-360deg);
+    }
+}
