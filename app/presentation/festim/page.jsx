@@ -6,9 +6,6 @@ import React, {useEffect, useState} from "react";
 import Pied from "@/components/Pied";
 import axios from "axios";
 import {useRouter} from "next/navigation";
-import AddReservation from "@/components/AddReservation";
-import AddReservationForFormation from "@/components/AddReservationForFormation";
-import Notifications from "@/components/Notifications";
 export default function page(){
    const apiUrl = process.env.NEXT_PUBLIC_API_URL ;
    const [number , SetNumber] = useState(0)
